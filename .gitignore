@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# veriler ve ciktilar depoya girmez
+runs/
+data/
+structures/
+*.npz
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.cif
+*.cif.gz
+*.pdb
+*.pdb.gz
+*.sdf
+*.mol2
+*.docx
+*.zip
+
+# sekiller uretilir, saklanmaz
+paper/figs/
+paper/.numbers.json
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
