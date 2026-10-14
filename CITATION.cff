@@ -7,7 +7,7 @@ authors:
     affiliation: "Department of Artificial Intelligence and Machine Learning, Faculty of Computer and Information Sciences, Manisa Celal Bayar University"
     email: "kurban.kotan@cbu.edu.tr"
 license: MIT
-repository-code: "https://github.com/USERNAME/sensitivity-is-not-use"
+repository-code: "https://github.com/kurbankotan/sensitivity-is-not-use"
 abstract: >-
   A diagnostic protocol that separates a model's sensitivity to protein-ligand
   geometry from its use of that geometry, applied to three deep architectures and
