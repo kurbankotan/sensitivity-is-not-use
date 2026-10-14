@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ensaff"
+version = "0.17.0"
+description = "Diagnostic protocol separating sensitivity to protein-ligand geometry from use of it"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Kurban Kotan", email = "kurban.kotan@cbu.edu.tr"}]
+
+[tool.setuptools]
+packages = ["ensaff"]

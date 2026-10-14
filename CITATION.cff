@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Sensitivity Is Not Use: code for testing whether structure-based affinity models learn from geometry"
+authors:
+  - family-names: "Kotan"
+    given-names: "Kurban"
+    affiliation: "Department of Artificial Intelligence and Machine Learning, Faculty of Computer and Information Sciences, Manisa Celal Bayar University"
+    email: "kurban.kotan@cbu.edu.tr"
+license: MIT
+repository-code: "https://github.com/USERNAME/sensitivity-is-not-use"
+abstract: >-
+  A diagnostic protocol that separates a model's sensitivity to protein-ligand
+  geometry from its use of that geometry, applied to three deep architectures and
+  a contact-count positive control on leak-proof PDBbind splits.
+keywords:
+  - binding affinity prediction
+  - structure-based drug design
+  - shortcut learning
+  - ablation
+  - model diagnostics
